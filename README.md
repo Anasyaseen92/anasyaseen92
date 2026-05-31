@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I am passionate about building scalable web applic
 ## 🚀 About Me
 🎓 Software Engineer with a strong foundation in problem solving  
 🔭 Open Source Contributor  
-💬 Ask me about JavaScript, C++, TypeScript, React, Node.js, MongoDB, Next.js, React Native, Microservices  
-📫 Connect with me below  
+💬 Ask me about JavaScript, C++, TypeScript, React, Node.js, MongoDB, Next.js, React Native, Microservices, DevOps  
+
 
 ---
 
